@@ -177,7 +177,6 @@
     <ClCompile Include="CRC32.cpp" />
     <ClCompile Include="DLLMain.cpp" />
     <ClCompile Include="Dumping.cpp" />
-    <ClCompile Include="Entities.cpp" />
     <ClCompile Include="ESP.cpp" />
     <ClCompile Include="GUI.cpp" />
     <ClCompile Include="Hacks.cpp" />
