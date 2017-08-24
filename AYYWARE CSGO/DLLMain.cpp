@@ -4,7 +4,6 @@ Syn's AyyWare Framework 2015
 //#define AYY_DEBUG
 
 // General shit
-#include "DLLMain.h"
 #include "Utilities.h"
 
 // Injection stuff
